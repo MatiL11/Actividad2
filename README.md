@@ -17,3 +17,7 @@ Replica en HTML de una noticia del diario online **The New Yorker**: *"The Futil
 - Listas ordenadas y no ordenadas
 - Hipervínculos y atributos
 - Separación de contenido en secciones significativas
+
+## Fuente
+
+Noticia original: [The Futility of Rolling Stone's Best-Albums List](https://www.newyorker.com/culture/cultural-comment/the-futility-of-rolling-stones-best-albums-list) — The New Yorker, Sheldon Pearce, 2 de octubre de 2020.
