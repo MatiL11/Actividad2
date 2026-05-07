@@ -1,10 +1,10 @@
-# Actividad Web 2 y 3 - HTML Semántico + CSS
+# Actividad Web 2, 3 y 5 - HTML Semántico + CSS + Diseño Responsivo
 
-Trabajos prácticos de la segunda y tercera semana de la materia.
+Trabajos prácticos de las clases 2, 3 y 5 de la materia.
 
 ---
 
-## Semana 2 — HTML Semántico
+## Clase 2 — HTML Semántico
 
 Replica en HTML de una noticia del diario online **The New Yorker**.
 
@@ -27,7 +27,7 @@ URL: https://www.newyorker.com/culture/cultural-comment/the-futility-of-rolling-
 
 ---
 
-## Semana 3 — Selectores, Atributos y Layout CSS
+## Clase 3 y 5 — Selectores, Layout CSS y Diseño Responsivo
 
 Replica en HTML + CSS de una noticia del diario **Infobae**.
 
@@ -44,12 +44,13 @@ URL: https://www.infobae.com/cultura/2026/05/02/el-musical-de-elena-roger-con-ca
 ### Conceptos aplicados
 
 - Hoja de estilos CSS externa vinculada con `<link>`
-- Variables CSS (`--infobae-orange`, `--text-dark`, etc.)
 - Selectores de clase, elemento y pseudoclase (`:hover`, `.active`)
 - Tipografía web con Google Fonts (Inter, Merriweather)
 - Modelo de caja (`box-sizing`, `padding`, `margin`, `border`)
 - CSS Grid para el layout de dos columnas (artículo + sidebar)
 - Flexbox para navegación y header
 - Posicionamiento `sticky` para el encabezado del sitio
-- Estilos para `blockquote`, `figcaption`, `time` y `cite`
-- Diseño responsivo con `max-width` y unidades relativas
+- Media queries para diseño responsivo en tres tamaños:
+  - Desktop: dos columnas con sidebar (mayor a 1023px)
+  - Tablet: una columna, sidebar en grilla horizontal (768px – 1023px)
+  - Mobile: una columna, navegación apilada, tipografía reducida (menor a 767px)
